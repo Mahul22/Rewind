@@ -1,1 +1,3 @@
-# Rewind
+Rewind is a minimalist web application designed to help users confront, document, and emotionally process personal regrets. The platform offers a clean, timeline-based interface where reflections can be written, revisited, and symbolically released through a feature called the Digital Bonfire.
+
+Built with a focus on emotional clarity and privacy, Rewind ensures all entries are securely handled using Firebase Authentication and encrypted local storage. Thoughtful UI design with Tailwind CSS and Framer Motion lends the app a soft, reflective feel — encouraging mindful engagement over rushed closure.
